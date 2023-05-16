@@ -1,1 +1,1 @@
-Cały kod znajduje się w folderze Lib
+Cały kod znajduje się w folderze zadanie/Lib
