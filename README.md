@@ -1,1 +1,1 @@
-# Pierwsze-Repozytorium
+Cały kod znajduje się w folderze Lib
