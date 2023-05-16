@@ -1,0 +1,3 @@
+2023-04-26 17:43:24.771 [info] Started initializing default profile extensions in extensions installation folder. file:///home/morio/.vscode/extensions
+2023-04-26 17:43:25.760 [warning] Failed to create default profile extensions manifest in extensions installation folder. file:///home/morio/.vscode/extensions Unable to create file 'vscode-userdata:/home/morio/.vscode/extensions/extensions.json' that already exists when overwrite flag is not set
+2023-04-26 17:43:25.766 [info] Completed initializing default profile extensions in extensions installation folder. file:///home/morio/.vscode/extensions

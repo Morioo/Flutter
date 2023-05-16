@@ -1,0 +1,13 @@
+2023/04/28-20:07:01.570 e03 Creating DB /home/morio/.config/google-chrome/Profile 1/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb since it was missing.
+2023/04/28-20:07:01.574 e03 Reusing MANIFEST /home/morio/.config/google-chrome/Profile 1/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/04/28-20:07:05.995 e41 Level-0 table #5: started
+2023/04/28-20:07:05.999 e41 Level-0 table #5: 53647 bytes OK
+2023/04/28-20:07:06.000 e41 Delete type=0 #3
+2023/04/28-20:07:06.001 e03 Manual compaction at level-0 from '\x00\x02\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x03\x00\x00\x00' @ 0 : 0; will stop at (end)
+2023/04/28-22:00:51.121 e04 Level-0 table #7: started
+2023/04/28-22:00:51.158 e04 Level-0 table #7: 980384 bytes OK
+2023/04/28-22:00:51.161 e04 Delete type=0 #4
+2023/04/28-22:11:04.586 e04 Compacting 1@1 + 1@2 files
+2023/04/28-22:11:04.598 e04 Generated table #8@1: 544 keys, 38440 bytes
+2023/04/28-22:11:04.598 e04 Compacted 1@1 + 1@2 files => 38440 bytes
+2023/04/28-22:11:04.599 e04 compacted to: files[ 0 0 1 0 0 0 0 ]
